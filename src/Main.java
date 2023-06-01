@@ -76,7 +76,6 @@ public class Main {
         String[] array = randomWord(fileReader());
         char[] stringToChar = stringToChar(array);
         char[] invisibleWord = invisibleWord(stringToChar);
-        //System.out.println(stringToChar);
         hangmanGame(stringToChar, invisibleWord);
     }
 }
