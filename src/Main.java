@@ -35,6 +35,10 @@ public class Main {
         }
         return passwordArray;
     } // Function making word invisible
+
+    public static String toString(char[] array){
+        return new String(array);
+    } // Function changing array to string
     public static void hangmanGame(char[] characterArray, char[] passwordArray){
         int timer = 0;
         int secondTimer = 0;
@@ -67,7 +71,7 @@ public class Main {
             }
             if(timer > 5){
                 System.out.println("You lost, try again later.");
-                System.out.println("The word was "+Arrays.toString(characterArray));
+                System.out.println("The word was: "+toString(characterArray));
                 break;
             }
         }
