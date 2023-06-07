@@ -39,4 +39,4 @@ Simple console java game based on hangman game rules. Writed in IntelliJ IDEA.
 ![Good ending](https://github.com/janFranczakk/hangmanGame_Java/blob/main/Screenshots/Screenshot%202023-06-06%20at%2020.22.53.png?raw=true)
 
 ### Bad ending
-![Bad ending](https://github.com/janFranczakk/hangmanGame_Java/blob/main/Screenshots/Screenshot%202023-06-06%20at%2020.24.01.png?raw=true)
+![Bad ending](https://github.com/janFranczakk/hangmanGame_Java/blob/main/Screenshots/Screenshot%202023-06-08%20at%2001.28.14.png?raw=true)
